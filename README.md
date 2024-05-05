@@ -3,12 +3,17 @@
 ###
 
 <p align="left">
-I'm  dedicated Software Engineering student at Albaath University, specializing in Informatics Engineering. Here's a glimpse of what I bring to the table:<br><br> 
-- 🚀 **Front-end Developer**: I craft delightful user experiences by building intuitive interfaces.<br> 
-- 💡 **Problem Solver**: I thrive on tackling complex programming challenges head-on.<br>- 🏆 **Recognized Commitment**: My participation in prestigious coding contests has earned me certificates.<br>  
-- 🌟 **Continuous Learner**: I'm fueled by an insatiable curiosity and a passion for lifelong learning.<br> 
-- 🗣️ **Effective Communicator**: I pride myself on clear communication and collaboration.<br><br>Let's connect and explore exciting possibilities together! Feel free to reach out. 🤝
+I'm a dedicated Software Engineering student at Albaath University, specializing in Informatics Engineering. Here's a glimpse of what I bring to the table:
+
+- 🚀 **Front-end Developer**: I craft delightful user experiences by building intuitive interfaces.
+- 💡 **Problem Solver**: I thrive on tackling complex programming challenges head-on.
+- 🏆 **Recognized Commitment**: My participation in prestigious coding contests has earned me certificates.
+- 🌟 **Continuous Learner**: I'm fueled by an insatiable curiosity and a passion for lifelong learning.
+- 🗣️ **Effective Communicator**: I pride myself on clear communication and collaboration.
+
+Let's connect and explore exciting possibilities together! Feel free to reach out. 🤝
 </p>
+
 
 ###
 
