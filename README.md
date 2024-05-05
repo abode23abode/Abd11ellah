@@ -13,7 +13,7 @@
 
 - 🟠 My journey as a Frontend developer is defined by continuous learning and a thirst for excellence. I look forward to new challenges and opportunities that allow me to push the boundaries of web development and create impactful solutions.
 
-- 📫 You can reach me at: <a href="mailto:abdulilahalhamwi@gmail.com" >abdulilahalhamwi@gmail</a>
+- 📫 You can reach me at :  <a href="mailto:abdulilahalhamwi@gmail.com" >abdulilahalhamwi@gmail</a>
 
 - Let's connect and explore exciting possibilities together! Feel free to reach out. 🤝
 
