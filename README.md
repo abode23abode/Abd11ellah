@@ -6,15 +6,33 @@
 
 ###
 
+<h3 align="left">Git hub stats</h3>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abd11ellah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abd11ellah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=abd11ellah&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abd11ellah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abd11ellah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="180" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abd11ellah&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">Tech stack</h3>
+
+###
+
+<div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
@@ -70,7 +88,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abd11ellah/abd11ellah/output/snake.svg" alt="Snake animation" />
+<h3 align="left">Connect with me</h3>
 
 ###
 
