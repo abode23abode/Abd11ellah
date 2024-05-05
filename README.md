@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Git hub stats</h3>
+<h2 align="left">Git hub stats</h2>
 
 ###
 
@@ -17,22 +17,22 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abd11ellah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="180" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=abd11ellah&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
 ###
 
-<h3 align="left">Tech stack</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abd11ellah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="180" alt="languages graph"  />
+</div>
 
 ###
 
-<div align="center">
+<h2 align="left">Tech stack</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
@@ -88,7 +88,7 @@
 
 ###
 
-<h3 align="left">Connect with me</h3>
+<h2 align="left">Connect with me</h2>
 
 ###
 
